@@ -121,6 +121,9 @@ background: #58FBFB;
 	width: 4vmin;
 	margin: 0 3px;
 }
+.skills-row{
+	align-items: center;
+}
 .path-svg{
 transition: .3s all ease;
 }
